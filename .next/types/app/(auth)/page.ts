@@ -1,4 +1,4 @@
-// File: C:\Users\lordm\OneDrive\Desktop\ayushchat\app\(auth)\page.jsx
+// File: C:\Users\lordm\OneDrive\Desktop\CWB\Gitlab\achat\app\(auth)\page.jsx
 import * as entry from '../../../../app/(auth)/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

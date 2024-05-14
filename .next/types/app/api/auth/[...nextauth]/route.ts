@@ -1,4 +1,4 @@
-// File: C:\Users\lordm\OneDrive\Desktop\ayushchat\app\api\auth\[...nextauth]\route.js
+// File: C:\Users\lordm\OneDrive\Desktop\CWB\Gitlab\achat\app\api\auth\[...nextauth]\route.js
 import * as entry from '../../../../../../app/api/auth/[...nextauth]/route.js'
 import type { NextRequest } from 'next/server.js'
 

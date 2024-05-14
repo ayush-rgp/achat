@@ -1,4 +1,4 @@
-// File: C:\Users\lordm\OneDrive\Desktop\ayushchat\app\(auth)\layout.js
+// File: C:\Users\lordm\OneDrive\Desktop\CWB\Gitlab\achat\app\(auth)\layout.js
 import * as entry from '../../../../app/(auth)/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
