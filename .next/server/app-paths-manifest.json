@@ -1,12 +1,5 @@
 {
-  "/favicon.ico/route": "app/favicon.ico/route.js",
   "/(auth)/page": "app/(auth)/page.js",
-  "/api/auth/[...nextauth]/route": "app/api/auth/[...nextauth]/route.js",
   "/(root)/chats/page": "app/(root)/chats/page.js",
-  "/api/users/[userId]/route": "app/api/users/[userId]/route.js",
-  "/(root)/chats/[chatId]/page": "app/(root)/chats/[chatId]/page.js",
-  "/api/chats/[chatId]/page": "app/api/chats/[chatId]/page.js",
-  "/api/users/route": "app/api/users/route.js",
-  "/api/messages/route": "app/api/messages/route.js",
-  "/api/chats/[chatId]/route": "app/api/chats/[chatId]/route.js"
+  "/(root)/chats/[chatId]/page": "app/(root)/chats/[chatId]/page.js"
 }

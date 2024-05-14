@@ -3,10 +3,9 @@
 import Loader from "@components/Loader";
 import { GroupOutlined} from "@mui/icons-material";
 import { CldUploadButton } from "next-cloudinary";
-
 import { useEffect, useState } from "react";
 import { useForm } from "react-hook-form";
-import { useParams } from "next/navigation";
+/*import { useParams } from "next/navigation";*/
 import { useRouter } from "next/router";
 
 const GroupInfo = () => {
@@ -14,7 +13,7 @@ const GroupInfo = () => {
     const [loading, setLoading] = useState(true);
     const [chat, setChat] = useState({});
 
-    const { chatId } useParams();
+    /*const { chatId } useParams();*/
 
     const getChatDetails = async () => {
         try {

@@ -27,11 +27,6 @@
       "static/chunks/main-app.js",
       "static/chunks/app/(root)/chats/[chatId]/page.js"
     ],
-    "/api/chats/[chatId]/page": [
-      "static/chunks/webpack.js",
-      "static/chunks/main-app.js",
-      "static/chunks/app/api/chats/[chatId]/page.js"
-    ],
     "/api/layout": [
       "static/chunks/webpack.js",
       "static/chunks/main-app.js",
